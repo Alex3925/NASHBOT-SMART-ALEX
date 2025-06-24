@@ -10,7 +10,7 @@ function design(title, content) {
         title,
         titleFont: "bold",
         contentFont: "none",
-        titlePattern: "【 NASH 】{word} {emojis}",
+        titlePattern: "【 ALEX 】{word} {emojis}",
         content,
     });
 }
