@@ -16,7 +16,7 @@ module.exports = {
         logMessageData.leftParticipantFbId === api.getCurrentUserID()
       ) {
         api.changeNickname(
-          `[ ${prefix} ]: NashBoT`,
+          `[ ${prefix} ]: Alexbot`,
           threadID,
           api.getCurrentUserID()
         );
