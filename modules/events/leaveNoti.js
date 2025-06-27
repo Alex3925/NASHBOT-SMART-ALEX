@@ -23,7 +23,7 @@ module.exports = {
 
         const leaveMessage = `
           📌 𝗟𝗲𝗮𝘃𝗲 𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 📌
-          › ${prefix} has left the conversation.
+          › ${prefix} has left the Groupchat.
           › If you need assistance, use ${prefix}help to see available commands!
         `;
 
