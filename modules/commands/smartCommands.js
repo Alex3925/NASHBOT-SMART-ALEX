@@ -883,19 +883,19 @@ async function handleAIQuery(api, event, body, threadID, messageID) {
 
 function handleContact(api, threadID, messageID) {
     const contactContent = `🧑‍💻 LEAD DEVELOPER
-   Joshua Apostol
-   📧 joshuaapostol909@gmail.com
-   📱 fb.com/joshuaapostol2006
-   💻 github.com/joshuaApos
+   Alex Jhon Ponce
+   📧 alexusa010101@gmail.com
+   📱 fb.com/alexdev01
+   💻 github.com/Alex3925
 
 👨‍💻 CO-LEAD DEVELOPER  
-   Cyril Encenso
-   📧 Amigohaycyril10@gmail.com
-   📱 fb.com/cyypookie
-   💻 github.com/atsushinakajima14
+   Alex Jhon Ponce II
+   📧 altsalts664@gmail.com
+   📱 fb.com/alexdev01
+   💻 github.com/Alex3925
 
 🌐 PORTFOLIO
-   joshua-portfolio.com
+   N/A.com
 
 💬 Support & Inquiries Welcome!`;
 
@@ -1293,7 +1293,7 @@ function handleComprehensiveHelp(api, threadID, messageID, prefix) {
 
 📊 𝗧𝗼𝘁𝗮𝗹: ${uniqueCommands.length} available features`;
 
-    const comprehensiveMessage = design("🤖 NASHBOT - COMPLETE FEATURE GUIDE", helpContent);
+    const comprehensiveMessage = design("🤖 ALEXBOT - COMPLETE FEATURE GUIDE", helpContent);
 
     const imagePath = './nashbot.png';
 
