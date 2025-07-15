@@ -15,7 +15,7 @@ module.exports = {
         const currentUserID = await api.getCurrentUserID();
 
         if (logMessageData.addedParticipants?.some(i => i.userFbId === currentUserID)) {
-          await api.changeNickname(`[ ${prefix} ]: NashBoT`, threadID, currentUserID);
+          await api.changeNickname(`[ ${prefix} ]: Alex Reborn V1 🔥`, threadID, currentUserID);
 
           const welcomeMessage = `
 ┌────────────────────────┐
